@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PerituneMaterial_Climbing.wav-b45b07344b9f529230149348b47a366b.sample"
+
+[deps]
+
+source_file="res://PerituneMaterial_Climbing.wav"
+dest_files=[ "res://.import/PerituneMaterial_Climbing.wav-b45b07344b9f529230149348b47a366b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
