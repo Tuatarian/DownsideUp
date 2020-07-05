@@ -1,2 +1,3 @@
 # DownsideUp
-This is a game I am developing for Android, Windows 10, and possibly Linux, MacOS, and iOS. The game is designed for android, and will likely play best there
+
+This game is available on PC, I may make an android port for learning reasons, or I may ditch this and move on to another idea. I think this game has potential, but I don't know if I will continue working on it
